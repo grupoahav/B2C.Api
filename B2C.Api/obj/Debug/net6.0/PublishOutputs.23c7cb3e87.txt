@@ -1,0 +1,11 @@
+C:\Users\Player HDN\AppData\Local\Temp\rider-publish576579204162108503\CustomPolicy.TechnicalProfile.Api.exe
+C:\Users\Player HDN\AppData\Local\Temp\rider-publish576579204162108503\appsettings.Development.json
+C:\Users\Player HDN\AppData\Local\Temp\rider-publish576579204162108503\appsettings.json
+C:\Users\Player HDN\AppData\Local\Temp\rider-publish576579204162108503\CustomPolicy.TechnicalProfile.Api.dll
+C:\Users\Player HDN\AppData\Local\Temp\rider-publish576579204162108503\CustomPolicy.TechnicalProfile.Api.deps.json
+C:\Users\Player HDN\AppData\Local\Temp\rider-publish576579204162108503\CustomPolicy.TechnicalProfile.Api.runtimeconfig.json
+C:\Users\Player HDN\AppData\Local\Temp\rider-publish576579204162108503\CustomPolicy.TechnicalProfile.Api.pdb
+C:\Users\Player HDN\AppData\Local\Temp\rider-publish576579204162108503\Microsoft.OpenApi.dll
+C:\Users\Player HDN\AppData\Local\Temp\rider-publish576579204162108503\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Player HDN\AppData\Local\Temp\rider-publish576579204162108503\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Player HDN\AppData\Local\Temp\rider-publish576579204162108503\Swashbuckle.AspNetCore.SwaggerUI.dll
